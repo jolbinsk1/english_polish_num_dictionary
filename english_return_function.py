@@ -1,3 +1,5 @@
+from english_polish_dictionaries import aughts, ten_thru_teens, tens
+
 # function for returning the English words for numbers 0 to 1,000,000
 
 def return_words(num):
