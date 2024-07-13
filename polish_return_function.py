@@ -1,4 +1,6 @@
-# function for returning English written words for numbers 0 to 1,000,000
+from english_polish_dictionaries import aughts_PL, ten_thru_teens_PL, tens_PL, hundreds_PL
+
+# function for returning Polish written words for numbers 0 to 1,000,000
 
 def return_words_PL(num):
     
