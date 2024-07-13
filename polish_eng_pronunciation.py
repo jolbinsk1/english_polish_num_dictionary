@@ -1,3 +1,5 @@
+from english_polish_dictionaries import aughts_ENG_pro, ten_thru_teens_ENG_pro, tens_ENG_pro, hundreds_ENG_pro
+
 # function for returning the english prnunciation of a polish number
 
 def ENG_pro(num):
