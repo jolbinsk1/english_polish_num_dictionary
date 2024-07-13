@@ -1,3 +1,6 @@
+from english_polish_dictionaries import aughts_PL_IPA, ten_thru_teens_PL_IPA, tens_PL_IPA, hundreds_PL_IPA
+
+
 # function for returning the IPA prnunciation of a polish number
 
 def return_IPA(num):
