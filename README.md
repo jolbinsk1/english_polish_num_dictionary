@@ -37,13 +37,13 @@ Follow the prompts to input an integer between 0 and 1,000,000.
 
 ## Structure
 
--`english_polish_dictionaries.py`: Contains dictionaries for number words and pronunciations in English and Polish.
--`english_return_function.py`: Contains the return_words function.
--`polish_return_function.py`: Contains the return_words_PL function.
--`polish_eng_pronunciation.py`: Contains the ENG_pro function.
--`IPA_and_format_func.py`: Contains return_IPA and IPA_format functions.
--`final_funcs.py`: Contains answer and number_translate functions.
--`main.py`: Main script that ties everything together.
+- `english_polish_dictionaries.py`: Contains dictionaries for number words and pronunciations in English and Polish.
+- `english_return_function.py`: Contains the return_words function.
+- `polish_return_function.py`: Contains the return_words_PL function.
+- `polish_eng_pronunciation.py`: Contains the ENG_pro function.
+- `IPA_and_format_func.py`: Contains return_IPA and IPA_format functions.
+- `final_funcs.py`: Contains answer and number_translate functions.
+- `main.py`: Main script that ties everything together.
 
 ## Example
 
