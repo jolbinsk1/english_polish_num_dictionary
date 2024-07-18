@@ -47,9 +47,9 @@ Follow the prompts to input an integer between 0 and 1,000,000.
 
 ## Example
 
-```bash 
 After running main.py, you will be prompted to enter a number:
 
+```bash 
 Please enter an integer from 0 to 1,000,000 (do not include commas or periods): 123
 The output will display the English and Polish words for the number, along with their pronunciations:
 
