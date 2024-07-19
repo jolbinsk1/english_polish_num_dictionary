@@ -12,14 +12,12 @@ This repository provides functions for translating the numbers 0 and 1,000,000 i
 
 1) Clone this repository:
 ```bash
-Copy code
 git clone https://github.com/jolbinsk1/english_polish_num_dictionary.git
 ```
 
 2) Run the main script:
 
 ``` bash
-Copy code
 python main.py
 Follow the prompts to input an integer between 0 and 1,000,000.
 
